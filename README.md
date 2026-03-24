@@ -35,16 +35,16 @@ Clase Main.java: Es la interfaz de usuario. Creamos un menú interactivo usando 
 
 1. Menú Principal
 Al iniciar el programa, verás un menú como este:
-![Captura 1](./Screenshot%2026-03-23%215656.png)
+![Captura 1](./Captura1.png)
 
 2. Insertar y Mostrar Inorden
 Si insertamos los números 50, 30 y 70, al elegir la opción "Mostrar Inorden", el sistema los organizará automáticamente:
 Resultado: 30, 50, 70
-![Captura 2](./Screenshot%2026-03-23%215753.png)
+![Captura 2](./Captura2.png)
 
 3. Búsqueda de Datos
 El sistema permite verificar la existencia de un valor:
-![Captura 3](./Screenshot%2026-03-23%215840.png)
+![Captura 3](./Captura3.png)
 
 ⚙️ Requisitos
 Java JDK 8 o superior.
